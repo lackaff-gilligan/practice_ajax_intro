@@ -1,0 +1,24 @@
+{
+  "name": "practice_ajax_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lackaff-gilligan/practice_ajax_intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lackaff-gilligan/practice_ajax_intro/issues"
+  },
+  "homepage": "https://github.com/lackaff-gilligan/practice_ajax_intro#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
